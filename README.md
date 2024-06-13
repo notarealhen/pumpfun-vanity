@@ -8,7 +8,7 @@ Join my Discord for more info on how to buy: https://discord.gg/NMxm9rhdYR
 
 - Complete BetterSol repository to run locally
 - Access to all features including:
-  - Custom CA (launch your tokens with a vanity address)
+  - Custom CA (launch your tokens with a vanity address) Example: https://pump.fun/TomQwDc4RAsfxjfHHhdLTFtHCHXoDg2WpKipMVGNhho
   - Raydium Launcher/Manager
   - Pumpfun Launcher/Manager
   - Token/SOL Disperser (connected wallet to multiple wallets)
